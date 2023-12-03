@@ -13,10 +13,10 @@ The generated data uses normal distributions curves to accurately randomly choos
 ## How to Run this project
 This project is written in Python and uses Jupyter Notebooks to display it. It can be run using a python interpreter but for best presentation of it. It should be opened with Juypter Notebooks.
 
-The followings links can be used to download these packages
-Anaconda: https://www.anaconda.com/ 
-Install Jupyter: https://jupyter.org/ 
-Github: https://github.com/
+The followings links can be used to download these packages:
+- Anaconda: https://www.anaconda.com/ 
+- Install Jupyter: https://jupyter.org/ 
+- Github: https://github.com/
 
 ## References
 #### Statistics
