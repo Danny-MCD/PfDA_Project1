@@ -15,7 +15,7 @@ This project is written in Python and uses Jupyter Notebooks to display it. It c
 
 The followings links can be used to download these packages:
 - Anaconda: https://www.anaconda.com/ 
-- Install Jupyter: https://jupyter.org/ 
+- Jupyter: https://jupyter.org/ 
 - Github: https://github.com/
 
 ## References
